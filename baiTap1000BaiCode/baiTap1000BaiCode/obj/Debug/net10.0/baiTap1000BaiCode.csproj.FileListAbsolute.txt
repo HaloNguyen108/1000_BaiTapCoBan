@@ -1,0 +1,14 @@
+D:\IT_LEARN\PROJECT\C#_LEARN\baiTap1000BaiCode\baiTap1000BaiCode\bin\Debug\net10.0\baiTap1000BaiCode.exe
+D:\IT_LEARN\PROJECT\C#_LEARN\baiTap1000BaiCode\baiTap1000BaiCode\bin\Debug\net10.0\baiTap1000BaiCode.deps.json
+D:\IT_LEARN\PROJECT\C#_LEARN\baiTap1000BaiCode\baiTap1000BaiCode\bin\Debug\net10.0\baiTap1000BaiCode.runtimeconfig.json
+D:\IT_LEARN\PROJECT\C#_LEARN\baiTap1000BaiCode\baiTap1000BaiCode\bin\Debug\net10.0\baiTap1000BaiCode.dll
+D:\IT_LEARN\PROJECT\C#_LEARN\baiTap1000BaiCode\baiTap1000BaiCode\bin\Debug\net10.0\baiTap1000BaiCode.pdb
+D:\IT_LEARN\PROJECT\C#_LEARN\baiTap1000BaiCode\baiTap1000BaiCode\obj\Debug\net10.0\baiTap1000BaiCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT_LEARN\PROJECT\C#_LEARN\baiTap1000BaiCode\baiTap1000BaiCode\obj\Debug\net10.0\baiTap1000BaiCode.AssemblyInfoInputs.cache
+D:\IT_LEARN\PROJECT\C#_LEARN\baiTap1000BaiCode\baiTap1000BaiCode\obj\Debug\net10.0\baiTap1000BaiCode.AssemblyInfo.cs
+D:\IT_LEARN\PROJECT\C#_LEARN\baiTap1000BaiCode\baiTap1000BaiCode\obj\Debug\net10.0\baiTap1000BaiCode.csproj.CoreCompileInputs.cache
+D:\IT_LEARN\PROJECT\C#_LEARN\baiTap1000BaiCode\baiTap1000BaiCode\obj\Debug\net10.0\baiTap1000BaiCode.dll
+D:\IT_LEARN\PROJECT\C#_LEARN\baiTap1000BaiCode\baiTap1000BaiCode\obj\Debug\net10.0\refint\baiTap1000BaiCode.dll
+D:\IT_LEARN\PROJECT\C#_LEARN\baiTap1000BaiCode\baiTap1000BaiCode\obj\Debug\net10.0\baiTap1000BaiCode.pdb
+D:\IT_LEARN\PROJECT\C#_LEARN\baiTap1000BaiCode\baiTap1000BaiCode\obj\Debug\net10.0\baiTap1000BaiCode.genruntimeconfig.cache
+D:\IT_LEARN\PROJECT\C#_LEARN\baiTap1000BaiCode\baiTap1000BaiCode\obj\Debug\net10.0\ref\baiTap1000BaiCode.dll
