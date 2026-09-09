@@ -168,6 +168,8 @@ namespace baiTap1000BaiCode
             //Bài 18: Tính S(n) = 1 + x^2/2! + x^4/4! + ... + x^2n/(2n)!
             #endregion
             #region Bai 20
+            Console.Write("Nhập vào x: ");
+            int x = int.Parse(Console.ReadLine());
             Console.Write("Nhập vào n: ");
             int n = int.Parse(Console.ReadLine());
             Console.Write("Kết quả là: ");
@@ -278,12 +280,15 @@ namespace baiTap1000BaiCode
                 Console.WriteLine($"{n} không là Số chính phương");
             //
 
-            double Canbai1 = 0;                    //33
+            double Canbai1 = 0;                    
             double Canbai2 = 0;
             double Canbai3 = 0;
             double Canbai4 = 0;
             double Canbai5 = 0;
-            for (int i = 1; i <= n; i++)
+            double Canbai6 = 0;
+            double Canbai7 = 0;
+            double PhannSo1 = 1.0;
+            for (int i = 1; i <= n; i++)           //33
             {
                 Canbai1 = Math.Sqrt(2 +  Canbai1);
             }
@@ -307,11 +312,41 @@ namespace baiTap1000BaiCode
             }
             Console.WriteLine($"Kết quả là: {Canbai4}");
 
-            for (int i = 1; i <= n; i++)          //37
+            for (int i = 1; i <= n; i++)          //38
             {
                 Canbai5 = Math.Pow(Canbai5 + i, 1.0 / (i + 1.0));
             }
             Console.WriteLine($"Kết quả là: {Canbai5}");
+
+            for (int i = 1; i <= n; i++)          //39
+            {
+                Canbai6 = Math.Pow(Canbai6 + TinhGiaiThua(i), 1.0 / (i + 1.0));
+            }
+            Console.WriteLine($"Kết quả là: {Canbai6}");
+
+            for (int i = 1; i <= n; i++)          //40
+            {
+                Canbai7 = Math.Sqrt(Canbai7 + Math.Pow(x , i));
+            }
+            Console.WriteLine($"Kết quả là: {Canbai7}");
+
+            for (int i = 1; i <= n; i++)          //41
+            {
+                PhannSo1 = 1.0 / (PhannSo1+i);
+            }
+            Console.WriteLine($"Kết quả là: {PhannSo1}");
+
+            int Sk = 0;                         //42
+            int soNhap = 1;
+            while (Sk + (soNhap+1) < n)
+            {
+                soNhap++;
+                Sk += soNhap;
+            }
+            Console.WriteLine($"Kết quả là: {Sk}");
+
+
+
 
 
 
@@ -325,6 +360,7 @@ namespace baiTap1000BaiCode
             Console.WriteLine($"Lượng chẳn:{luongChan} ");      //27
             Console.WriteLine($"Tổng nhỏ hơn n:{sumNho} ");     //28
             Console.WriteLine($"Số lẻ lơn nhất:{max} ");        //29
+
 
 
 
